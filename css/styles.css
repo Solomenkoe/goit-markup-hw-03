@@ -55,11 +55,13 @@ body {
     line-height: 1.2;
     font-weight: 500;
     margin-bottom: 8px;
+    letter-spacing: 0.02em;
 }
 
 .item-text {
     font-size: 16px;
     line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 
 .container {
